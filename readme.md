@@ -55,4 +55,4 @@ El script incluye un comando que genera el reporte HMTL de JMETER
 
 Analista de calidad manual/ Automatizador de pruebas/ Estudiante de Especialización en Big Data
 
-** Fecha de actualización:** 21 de Abril 2026
+**Fecha de actualización:** 21 de Abril 2026
